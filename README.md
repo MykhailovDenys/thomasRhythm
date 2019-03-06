@@ -26,15 +26,9 @@ _______
 
 
 
-[Example hover effect](Thomas_Rhythm_hover_effect-portfolio.png)
+> [Example hover effect](Thomas_Rhythm_hover_effect-portfolio.png)
 
-[Thumbnail of the project (responsive Design)](Thomas_Rhythm_resolution-767px.png)
+> [Thumbnail of the project (responsive Design)](Thomas_Rhythm_resolution-767px.png)
 _______
 **Thumbnail of the project**
 ![screen](Thomas__Rhythm.jpg)
-___________
-
-
-___________
-**How does look adaptive design**
-![screen](Thomas_Rhythm_resolution-767px.png)
