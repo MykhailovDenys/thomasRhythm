@@ -8,9 +8,9 @@ _________
 1. HTML
 2. CSS
 3. Bootstrap 3
-3.1 Grid
-3.2 Slider
-3.3 Tabs
+*  Grid
+*  Slider
+*  Tabs
 4. JavaScript
 5. jQuery 
 _______
