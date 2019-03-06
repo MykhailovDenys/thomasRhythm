@@ -23,15 +23,16 @@ _______
 > Various hover effects
 
 _______
-[Thumbnail of the project](Thomas__Rhythm.jpg)
+
 [Thumbnail of the project][]
 
 
 [Example hover effect](Thomas_Rhythm_hover_effect-portfolio.png)
 
-**Thumbnail of the project**
+
 [Thumbnail of the project (responsive Design)](Thomas_Rhythm_resolution-767px.png)
 _______
+**Thumbnail of the project**
 ![screen](Thomas__Rhythm.jpg)
 ___________
 **When you hover the elements of the portfolio are colored**
