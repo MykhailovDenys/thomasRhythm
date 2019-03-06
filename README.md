@@ -23,9 +23,13 @@ _______
 > Various hover effects
 
 _______
-[Thumbnail of the progect](Thomas__Rhythm.jpg)
+[Thumbnail of the project](Thomas__Rhythm.jpg)
+
+
 [Example hover effect](Thomas_Rhythm_hover_effect-portfolio.png)
-[Thumbnail of the progect (responsive Design)](Thomas_Rhythm_resolution-767px.png)
+
+
+[Thumbnail of the project (responsive Design)](Thomas_Rhythm_resolution-767px.png)
 _______
 ![screen](Thomas__Rhythm.jpg)
 ___________
