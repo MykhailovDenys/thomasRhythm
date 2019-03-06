@@ -30,5 +30,5 @@ _______
 
 > [Thumbnail of the project (responsive Design)](Thomas_Rhythm_resolution-767px.png)
 _______
-**Thumbnail of the project**
+### Thumbnail of the project 
 ![screen](Thomas__Rhythm.jpg)
