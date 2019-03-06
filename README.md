@@ -15,15 +15,13 @@ _________
 5. jQuery 
 _______
 
-> Semantic code
 
 > Responsive design
 
 > Smooth transitions between sections
 
-> Using sprites
-
 > Various hover effects
+
 _______
 
 ![screen](Thomas__Rhythm.jpg)
